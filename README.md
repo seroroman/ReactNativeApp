@@ -16,4 +16,5 @@ $ npx react-native run-ios
 トラブルシューティング
 
 chmod node_module
+
 cd ios/ && pod install
